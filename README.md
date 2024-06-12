@@ -68,6 +68,8 @@ Para visualizar o PDF do TCC no Visual Studio Code, siga estas instruções:
 4. Selecione "Open Preview" (Abrir Pré-visualização) no menu de contexto.
 
 Isso abrirá o PDF do TCC diretamente no Visual Studio Code, permitindo que você visualize e navegue pelo conteúdo sem sair do ambiente de desenvolvimento.
+
+
 ## Limitações
 
 O código está limitado a classificar os comentários do IMDB como positivos ou negativos. Além disso, o código não está treinando o modelo em várias épocas, o que pode ser uma limitação. Por fim, o código não está salvando o modelo treinado, o que pode ser uma limitação se quisermos usar o modelo em outras aplicações.
