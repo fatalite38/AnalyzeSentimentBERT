@@ -1,6 +1,6 @@
 # Análise de Sentimento com BERT
 
-Este projeto consiste em uma análise de sentimento utilizando o modelo BERT para classificação de sequências. O objetivo é treinar e avaliar um modelo de linguagem pré-treinado do BERT na base de dados do IMDb, que contém críticas de filmes rotuladas como positivas ou negativas.
+Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso (TCC) e consiste em uma análise de sentimento utilizando o modelo BERT para classificação de sequências. O objetivo é treinar e avaliar um modelo de linguagem pré-treinado do BERT na base de dados do IMDb, que contém críticas de filmes rotuladas como positivas ou negativas.
 
 ## Conteúdo
 
@@ -10,7 +10,8 @@ Este projeto consiste em uma análise de sentimento utilizando o modelo BERT par
 4. [Uso](#uso)
 5. [Estrutura do Projeto](#estrutura-do-projeto)
 6. [Limitações](#limitações)
-7. [Contribuições](#contribuições)
+7. [Trabalho de Conclusão de Curso (TCC)](#trabalho-de-conclusão-de-curso-tcc)
+8. [Contribuições](#contribuições)
 
 ## Descrição do Projeto
 
@@ -29,7 +30,7 @@ O notebook `AnalyzeSentiment.ipynb` contém todo o código necessário para carr
 ## Instalação
 
 1. Clone este repositório:
-  git clone https://github.com/seu-usuario/seu-repositorio.git
+  git clone https://github.com/fatalite38/AnalyzeSentimentBERT.git
 
 2. Instale as dependências:
    pip install
@@ -50,10 +51,27 @@ Para usar o código, siga os seguintes passos:
 
 - `AnalyzeSentiment.ipynb`: Notebook Jupyter contendo o código completo para análise de sentimento com BERT.
 - `README.md`: Este arquivo de documentação.
+  
 
+## Trabalho de Conclusão de Curso (TCC)
+
+O desenvolvimento deste projeto faz parte do Trabalho de Conclusão de Curso (TCC) em [Nome do Curso] da [Nome da Instituição de Ensino].
+
+Para visualizar o PDF do TCC no Visual Studio Code, siga estas instruções:
+
+1. Certifique-se de ter a extensão "PDF (Preview)" instalada no Visual Studio Code. Você pode encontrá-la no Marketplace de extensões do VS Code.
+
+2. Após instalar a extensão, reinicie o Visual Studio Code.
+
+3. No explorador de arquivos do VS Code, clique com o botão direito no arquivo `Tcc.pdf`.
+
+4. Selecione "Open Preview" (Abrir Pré-visualização) no menu de contexto.
+
+Isso abrirá o PDF do TCC diretamente no Visual Studio Code, permitindo que você visualize e navegue pelo conteúdo sem sair do ambiente de desenvolvimento.
 ## Limitações
 
 O código está limitado a classificar os comentários do IMDB como positivos ou negativos. Além disso, o código não está treinando o modelo em várias épocas, o que pode ser uma limitação. Por fim, o código não está salvando o modelo treinado, o que pode ser uma limitação se quisermos usar o modelo em outras aplicações.
+
 
 ## Contribuições
 
