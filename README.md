@@ -11,7 +11,6 @@ Este projeto consiste em uma análise de sentimento utilizando o modelo BERT par
 5. [Estrutura do Projeto](#estrutura-do-projeto)
 6. [Limitações](#limitações)
 7. [Contribuições](#contribuições)
-8. [Licença](#licença)
 
 ## Descrição do Projeto
 
@@ -59,8 +58,4 @@ O código está limitado a classificar os comentários do IMDB como positivos ou
 ## Contribuições
 
 Se você encontrar algum erro ou problema no código, ou se tiver alguma sugestão de melhoria, por favor, abra um issue ou envie um pull request. Obrigado!
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
 
