@@ -9,8 +9,8 @@ Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso (TCC
 3. [Instalação](#instalação)
 4. [Uso](#uso)
 5. [Estrutura do Projeto](#estrutura-do-projeto)
-6. [Limitações](#limitações)
-7. [Trabalho de Conclusão de Curso (TCC)](#trabalho-de-conclusão-de-curso-tcc)
+6. [Trabalho de Conclusão de Curso (TCC)](#trabalho-de-conclusão-de-curso-tcc)
+7. [Limitações](#limitações)
 8. [Contribuições](#contribuições)
 
 ## Descrição do Projeto
@@ -55,7 +55,7 @@ Para usar o código, siga os seguintes passos:
 
 ## Trabalho de Conclusão de Curso (TCC)
 
-O desenvolvimento deste projeto faz parte do Trabalho de Conclusão de Curso (TCC) em [Nome do Curso] da [Nome da Instituição de Ensino].
+O desenvolvimento deste projeto faz parte do Trabalho de Conclusão de Curso (TCC) em Engenharia de Computação da Faculdade Galileu(FG).
 
 Para visualizar o PDF do TCC no Visual Studio Code, siga estas instruções:
 
