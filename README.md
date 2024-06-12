@@ -33,7 +33,7 @@ O notebook `AnalyzeSentiment.ipynb` contém todo o código necessário para carr
   git clone https://github.com/fatalite38/AnalyzeSentimentBERT.git
 
 2. Instale as dependências:
-   pip install
+   pip install -r requirements.txt
    
 
 ## Uso
