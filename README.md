@@ -9,8 +9,9 @@ Este projeto consiste em uma análise de sentimento utilizando o modelo BERT par
 3. [Instalação](#instalação)
 4. [Uso](#uso)
 5. [Estrutura do Projeto](#estrutura-do-projeto)
-6. [Contribuições](#contribuições)
-7. [Licença](#licença)
+6. [Limitações](#limitações)
+7. [Contribuições](#contribuições)
+8. [Licença](#licença)
 
 ## Descrição do Projeto
 
